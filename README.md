@@ -10,12 +10,13 @@ Loading...
 * Core Location
 * MapKit
 * Controllers and ViewModels connected with Delegate and Closure's
-* Automatic locatio n find
+* Automatic location find
+* Live Map
+* Current weather data where you add a map pin
 * Compatible with iOS 13.0+
 * Lottie Animations
 * Modern UI
 * Location Permission and Alert
-* Cross Platform
 * Live Video
 
 https://github.com/japsadev/SkyWeather/assets/62521215/a84cdf13-c71d-4d4b-8bba-bc3dd83c32bb
