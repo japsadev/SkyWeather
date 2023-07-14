@@ -1,8 +1,8 @@
-# SkyWeather
+# SkyWeather - Pioneering the Future of Weather Forecasting
 
 ![Adsız (2048 × 1080 piksel) (3840 × 1080 piksel) Kopyası Kopyası](https://github.com/japsadev/SkyWeather/assets/62521215/9c121ab8-1cac-41b9-a1b2-42ae2ef54877)
 ## App Store 
-Loading...
+Coming Soon...
 
 ## Key Features
 
@@ -17,7 +17,14 @@ Loading...
 * Lottie Animations
 * Modern UI
 * Location Permission and Alert
-* Live Video
+* Use API
 
+#### Get API
+
+```
+GET https://openweathermap.org/api
+```
+* Live Video
+  
 https://github.com/japsadev/SkyWeather/assets/62521215/a84cdf13-c71d-4d4b-8bba-bc3dd83c32bb
 
